@@ -1,0 +1,1 @@
+I wrote a research paper about sabermetrics (sports analytics for baseball) during my senior year at Quinnipiac University. I gathered data from Baseball Reference for over 100 players and used statistical methods, such as Principal Component Analysis (PCA) to determine the greatest player of all-time.
